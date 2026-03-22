@@ -1,3 +1,10 @@
+---
+hero:
+  heading: "About Us"
+  subtext: "Serving our community since 2010"
+  background: "#1d4ed8"
+---
+
 # About Us
 
 ## Our Story
