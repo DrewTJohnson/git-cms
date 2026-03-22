@@ -1,0 +1,1 @@
+import{d as o,e as m,f as i,t as c}from"./index-BFU7e1BM.js";import{m as d,p as v}from"./purify.es-CkEwtMvV.js";var f=c("<div>");function M(t){const s=o(()=>{const e=d.parse(t.content);return v.sanitize(e)});return(()=>{var e=f();return m(r=>{var a=`prose ${t.class??""}`,n=s();return a!==r.e&&i(e,r.e=a),n!==r.t&&(e.innerHTML=r.t=n),r},{e:void 0,t:void 0}),e})()}export{M};

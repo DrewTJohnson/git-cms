@@ -1,0 +1,1 @@
+import{i as o,b as n,A as r,t as a}from"./index-BFU7e1BM.js";var i=a("<div class=not-found><h1>404 — Page Not Found</h1><p>The page you're looking for doesn't exist or has been moved.");function s(){return(()=>{var e=i(),t=e.firstChild;return t.nextSibling,o(e,n(r,{href:"/",class:"btn btn--primary",children:"Go Home"}),null),e})()}export{s as default};
