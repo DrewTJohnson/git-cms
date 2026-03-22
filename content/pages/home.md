@@ -1,6 +1,6 @@
-# Welcome to Our Organization
+# Welcome to YoCMS
 
-We are a non-profit dedicated to making a difference in our community. Our mission is to provide accessible resources and support to those who need it most.
+Originally scaffolded with Claude and edited by Drew, this is a CMS designed to be built and deployed via GitHub pages for small businesses, start-ups, and non-profits to quickly spin up sites with minimal cost.
 
 ## Our Mission
 
