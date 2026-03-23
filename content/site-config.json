@@ -1,0 +1,14 @@
+{
+  "header": {
+    "links": [
+      {
+        "label": "About",
+        "url": "/page/about"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "Our Organization",
+    "links": []
+  }
+}
