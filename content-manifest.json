@@ -6,5 +6,9 @@
   {
     "slug": "about",
     "title": "About Us"
+  },
+  {
+    "slug": "contact-us",
+    "title": "contact-us"
   }
 ]
